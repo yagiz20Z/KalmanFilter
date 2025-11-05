@@ -7,4 +7,4 @@ Uygulama 3 ana aşamadan oluşur:
 
 1.  Python ile excel verileri okunur
 2.  C'de veriler filtreden geçer 
-3.  Python'da işlenen veriler çekilir ve işlernir
+3.  C'da işlenen veriler Python ile çekilir ve aktarılır
