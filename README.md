@@ -1,5 +1,10 @@
-# excel'deki verileri alıp kalman filtresine sokan bir uygulama
-Uygulama aslında 3 aşamadan oluşmaktadır:
-        1- Python ile excel verileri okunur
-        2- C'de veriler filtreden geçer 
-        3- Python'da işlenen veriler çekilir ve işlernir
+# Python ve C ile Kalman Filtresi Uygulaması
+
+Bu proje, bir Excel dosyasındaki gürültülü verileri okumak, bu verileri C ile yazılmış bir 1D Kalman filtresinden geçirmek ve sonuçları tekrar Python'da görselleştirmek için süreçler arası iletişimi (IPC) kullanan bir örnek uygulamadır.
+
+
+Uygulama 3 ana aşamadan oluşur:
+
+1.  **Python ile excel verileri okunur
+2.  **FC'de veriler filtreden geçer 
+3.  **Python'da işlenen veriler çekilir ve işlernir
