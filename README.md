@@ -6,5 +6,5 @@ Bu proje, bir Excel dosyasındaki gürültülü verileri okumak, bu verileri C i
 Uygulama 3 ana aşamadan oluşur:
 
 1.  Python ile excel verileri okunur
-2.  FC'de veriler filtreden geçer 
+2.  C'de veriler filtreden geçer 
 3.  Python'da işlenen veriler çekilir ve işlernir
