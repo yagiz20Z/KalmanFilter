@@ -1,7 +1,5 @@
 #include "matrix.h"
-#include <stdio.h>
-#include <string.h>
-#include <math.h>
+
 
 // Matris çarpma: 4x4 * 4x1
 void matrix_multiply_4x4_4x1(float A[4][4], float x[4], float result[4]) {

@@ -2,6 +2,10 @@
 #ifndef MATRIX_H
 #define MATRIX_H
 
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+
 // Matris çarpma fonksiyonları
 void matrix_multiply_4x4_4x1(float A[4][4], float x[4], float result[4]);
 void matrix_multiply_4x4(float A[4][4], float B[4][4], float result[4][4]);
