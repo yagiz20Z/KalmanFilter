@@ -33,15 +33,7 @@ typedef struct
 
 
 
-
-
-
 void KalmanFilter();
-
-
-
-
-
 
 
 
